@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1497320736 source:c:\users\7s1ng\desktop\xadrezfinal\main.cpp
+	<iostream>
+	<cmath>
+	<ctype.h>
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<dos.h>
+	<dir.h>
+	<conio.h>
+	<fstream>
+	<time.h>
+
